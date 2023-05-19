@@ -1,3 +1,5 @@
-module timeZone-assign
+module banking-system
 
 go 1.19
+
+require github.com/gorilla/mux v1.8.0
